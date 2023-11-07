@@ -20,3 +20,4 @@ https://learn.microsoft.com/en-us/training/modules/add-layout-report/
 # Complete the report request page in Dynamics 365 Business Central
 
 https://learn.microsoft.com/en-us/training/modules/complete-report-request-page/
+
